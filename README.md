@@ -1,4 +1,4 @@
-# Data Analytics & AI Course Syllabus 2026
+# Data Analytics & AI Course 
 
 Welcome to Tech-Moms' Data Analytics & AI Course! You'll learn the core skills of a data analyst — and how to use AI to work smarter, from analyzing data to making videos and automations. 
 
