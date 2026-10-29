@@ -9,3 +9,5 @@
   * Who is looking for a new job? Full time, part time, analyst or something else? 
   * Let's talk about AI Ethics 
   * Breakout Group: Data Storytelling Quick-Start
+  * Portfolio 
+  * Data Analyst Roadmap 
